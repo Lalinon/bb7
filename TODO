@@ -5,3 +5,6 @@ team manager:
 - managing existing team
  - loading team
  - resaving team
+- sharing team
+ - print locally
+ - email roster
