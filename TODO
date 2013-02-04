@@ -1,0 +1,7 @@
+team manager:
+- database of teams
+- creating new team
+ - saving team
+- managing existing team
+ - loading team
+ - resaving team
